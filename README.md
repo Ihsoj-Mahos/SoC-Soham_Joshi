@@ -2,8 +2,7 @@ I was a part of the project CNN-lytical under the mentorship of Akshat Kumar, Va
 
 In this repo, I am including : 
 1. Programming Assignments
-2. training datasets(.pkl) files
-3. Project Selection Assignments
+2. Project Selection Assignments
 
 The programming assignments were in the form of notebooks, so can be run using google colab. In addition, the project included watching lectures of CS231n, a course offered by Stanford University
 
