@@ -1,4 +1,4 @@
-I was a part of the project CNN-lytical under the mentorship of Akshat Kumar, Vaibhav Raj, AShwin Ramachandran. 
+I was a part of the project CNN-lytical under the mentorship of Akshat Kumar, Vaibhav Raj, Ashwin Ramachandran. 
 
 In this repo, I am including : 
 1. Programming Assignments
