@@ -35,9 +35,9 @@ In addition to the papers, I have implemented the following models :
   iii. Accuracy upon some fixed maximum perturbation using the FGSM attack
 
 You can observe that running the cell with values of epsilon we get the following values of % accuracy of the neural network : 
-epsilon = 0.01 ; 83.5%
-epsilon = 0.05; 62.4%
-epsilon = 0.1; 24.6%
+epsilon = 0.01 ; 83.5% . 
+epsilon = 0.05; 62.4% . 
+epsilon = 0.1; 24.6% . 
 This trend indeed supports the hypothesis of the papers. 
 
 The experience of the SoC has been very useful, and hopefully this repository helps :)
