@@ -48,6 +48,8 @@ This trend indeed supports the hypothesis of the papers.
   iii. Accuracy upon some fixed maximum perturbation using the FGSM attack 
 DeepFool is so powerful that in most cases I got an accuracy of nearly 0.0% by the image classifier. For more information on DeepFool you can have a look at paper3.pdf of this repo. 
 
+![DeepFool](DeepFool.png)
+
 The experience of the SoC has been very useful, and hopefully this repository helps :)
 
 This repo is maintained by Soham Joshi, email - sohamjoshitab2@gmail.com
