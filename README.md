@@ -29,7 +29,7 @@ by Ian J. Goodfellow, Jonathon Shlens & Christian Szegedy
 by Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Pascal Frossard Ecole Polytechnique F ́ed ́erale de Lausanne
 
 In addition to the papers, I have implemented the following models : 
-1. FGSM (Fast Gradient Sign Method) Attack on Neural Networks : In this implementation (FGSM.ipynb), I have used the first programming assignment and in the same spirit of doing everything from scratch, have implemented the FGSM algorithm using only the numpy library. The implementation contains cells which show : 
+1. FGSM (Fast Gradient Sign Method) Attack on Neural Networks : In this implementation (FGSM.ipynb), I have used the first programming assignment and in the same spirit of doing everything from scratch, have implemented the FGSM algorithm using only the numpy library. The implementation contains cells which show : \
 i. Generation of adverserial examples \
 ii. Normal example generation and predictions \ 
 iii. Accuracy upon some fixed maximum perturbation using the FGSM attack \
@@ -42,7 +42,7 @@ epsilon = 0.05; 62.4% .
 epsilon = 0.1; 24.6% . 
 This trend indeed supports the hypothesis of the papers. 
 
-2. DeepFool Algorithm : In this implementation (DeepFool.ipynb), I have again used the first programming assignment and have used only the numpy library. The implementation contains cells showing : 
+2. DeepFool Algorithm : In this implementation (DeepFool.ipynb), I have again used the first programming assignment and have used only the numpy library. The implementation contains cells showing : \
 i. Generation of adverserial examples \
 ii. Normal example generation and predictions \
 iii. Accuracy upon some fixed maximum perturbation using the FGSM attack \
