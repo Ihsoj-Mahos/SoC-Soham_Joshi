@@ -31,8 +31,8 @@ by Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Pascal Frossard Ecole Polytec
 In addition to the papers, I have implemented the following models : 
 1. FGSM (Fast Gradient Sign Method) Attack on Neural Networks : In this implementation (FGSM.ipynb), I have used the first programming assignment and in the same spirit of doing everything from scratch, have implemented the FGSM algorithm using only the numpy library. The implementation contains cells which show : \
 i. Generation of adverserial examples \
-ii. Normal example generation and predictions  \ 
-iii. Accuracy upon some fixed maximum perturbation using the FGSM attack \
+ii. Normal example generation and predictions \ 
+iii. Accuracy upon some fixed maximum perturbation using the FGSM attack 
 
 ![FGSM Attack](FGSM.png)
 
