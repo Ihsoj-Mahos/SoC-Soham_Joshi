@@ -30,9 +30,9 @@ by Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Pascal Frossard Ecole Polytec
 
 In addition to the papers, I have implemented the following models : 
 1. FGSM (Fast Gradient Sign Method) Attack on Neural Networks : In this implementation (FGSM.ipynb), I have used the first programming assignment and in the same spirit of doing everything from scratch, have implemented the FGSM algorithm using only the numpy library. The implementation contains cells which show : 
-  i. Generation of adverserial examples 
-  ii. Normal example generation and predictions 
-  iii. Accuracy upon some fixed maximum perturbation using the FGSM attack
+i. Generation of adverserial examples 
+ii. Normal example generation and predictions 
+iii. Accuracy upon some fixed maximum perturbation using the FGSM attack
 
 ![FGSM Attack](FGSM.png)
 
@@ -43,9 +43,9 @@ epsilon = 0.1; 24.6% .
 This trend indeed supports the hypothesis of the papers. 
 
 2. DeepFool Algorithm : In this implementation (DeepFool.ipynb), I have again used the first programming assignment and have used only the numpy library. The implementation contains cells showing : 
-  i. Generation of adverserial examples
-  ii. Normal example generation and predictions 
-  iii. Accuracy upon some fixed maximum perturbation using the FGSM attack 
+i. Generation of adverserial examples
+ii. Normal example generation and predictions 
+iii. Accuracy upon some fixed maximum perturbation using the FGSM attack 
 DeepFool is so powerful that in most cases I got an accuracy of nearly 0.0% by the image classifier. For more information on DeepFool you can have a look at paper3.pdf of this repo. 
 
 ![DeepFool](DeepFool.png)
