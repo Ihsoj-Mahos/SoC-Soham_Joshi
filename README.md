@@ -40,6 +40,12 @@ epsilon = 0.05; 62.4% .
 epsilon = 0.1; 24.6% . 
 This trend indeed supports the hypothesis of the papers. 
 
+2. DeepFool Algorithm : In this implementation (DeepFool.ipynb), I have again used the first programming assignment and have used only the numpy library. The implementation contains cells showing : 
+  i. Generation of adverserial examples
+  ii. Normal example generation and predictions 
+  iii. Accuracy upon some fixed maximum perturbation using the FGSM attack 
+DeepFool is so powerful that in most cases I got an accuracy of nearly 0.0% by the image classifier. For more information on DeepFool you can have a look at paper3.pdf of this repo. 
+
 The experience of the SoC has been very useful, and hopefully this repository helps :)
 
 This repo is maintained by Soham Joshi, email - sohamjoshitab2@gmail.com
