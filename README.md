@@ -34,6 +34,8 @@ In addition to the papers, I have implemented the following models :
   ii. Normal example generation and predictions 
   iii. Accuracy upon some fixed maximum perturbation using the FGSM attack
 
+![FGSM Attack](FGSM.png)
+
 You can observe that running the cell with values of epsilon we get the following values of % accuracy of the neural network : 
 epsilon = 0.01 ; 83.5% . 
 epsilon = 0.05; 62.4% . 
