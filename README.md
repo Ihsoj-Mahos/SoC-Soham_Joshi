@@ -34,7 +34,7 @@ i. Generation of adverserial examples \
 ii. Normal example generation and predictions \ 
 iii. Accuracy upon some fixed maximum perturbation using the FGSM attack 
 
-![FGSM Attack](FGSM.png)
+![FGSM Attack](Project/FGSM.png)
 
 You can observe that running the cell with values of epsilon we get the following values of % accuracy of the neural network : 
 epsilon = 0.01 ; 83.5% . 
@@ -48,7 +48,7 @@ ii. Normal example generation and predictions  \
 iii. Accuracy upon some fixed maximum perturbation using the FGSM attack \
 DeepFool is so powerful that in most cases I got an accuracy of nearly 0.0% by the image classifier. For more information on DeepFool you can have a look at paper3.pdf of this repo. 
 
-![DeepFool](DeepFool.png)
+![DeepFool](Project/DeepFool.png)
 
 The experience of the SoC has been very useful, and hopefully this repository helps :)
 
